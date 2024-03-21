@@ -1,1 +1,25 @@
+%Task 1: Creating a Simple Function
+function sumation_number=mySimpleFunction(n1,n2)
+   sumation_number=n1+n2;
+    disp(sumation_number)
+end
+
+ %Task 2: Function Inputs and Outputs
+function area=calculateCircleArea(raduis)
+area=pi*raduis^2;
+disp(area)
+end
+
+%Task 3: Function with Multiple Outputs
+
+%Create a function named computeStatistics that takes a vector of numbers as input.
+%This function should return both the mean and the standard deviation of the input vector.
+%Call the function with sample data and display the results.
+ 
+function [mean_val, std_dev] = computeStatistics(input_vector)
+    mean_val = mean(input_vector);
+    std_dev = std(input_vector);
+    disp(['Mean: ', num2str(mean_val)])
+    disp(['Standard Deviation: ', num2str(std_dev)])
+end
 
