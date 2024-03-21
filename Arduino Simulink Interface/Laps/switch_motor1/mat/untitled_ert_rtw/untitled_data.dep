@@ -1,0 +1,41 @@
+untitled_data.o: \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/untitled_data.c \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/untitled.h \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_continuous.h \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/untitled_types.h \
+ D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/standard/pins_arduino.h
+
+D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/untitled.h:
+
+D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_continuous.h:
+
+D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2022b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/untitled_types.h:
+
+D:/course/MBD/Arduino_Simulink_Interface_Module_4/a3/lap/switch_motor1/mat/untitled_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2022b/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2022b/aIDE/hardware/arduino/avr/variants/standard/pins_arduino.h:
