@@ -1,4 +1,4 @@
-% zeta_values
+% zeta_values and frequance_vales
 frequance_vales=[1 1 1 2 2 2 4 4 4 4 4 4 ];
 zeta_values=[0.1 0.5 0.9 0.1 0.5 0.9 0.1 0.5 0.9 1 1.5 0];
 time_sim =0:0.01:10;
