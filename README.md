@@ -8,6 +8,8 @@ This repository contains my studies and projects related to Model-Based Developm
 - [Projects](#projects)
   - [MATLAB](#matlab)
   - [Simulink](#simulink)
+  - [Interface Simulink Arduino](#interface-simulink-arduino)
+  - [PID Controller](#pid-controller)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -58,9 +60,37 @@ This folder houses various small projects created using Simulink. These projects
 
 Explore more in the [Simulink folder](https://github.com/yassa404/Model-_Based_development/tree/main/Simulink).
 
+### Interface Simulink Arduino
+This folder contains projects involving the interface between Simulink and Arduino for controlling motors and more.
+
+- **Projects**:
+  - `direction_dcmotor_3 control`
+  - `control_on_left_right_off_byenableblook_4`
+  - `control_on_left_right_off_byenableblook_by_press_5`
+
+- **Signal Control Project**: A project involving direction control for signal lights, ensuring that when turning right, the left light turns off and vice versa. It also includes hazard light control and resetting signals upon deactivation.
+
+Explore more in the [Simulink Arduino Interface folder](https://github.com/yassa404/Model-_Based_development/tree/main/Arduino%20Simulink%20Interface).
+
+### PID Controller
+This folder contains projects related to PID control. It includes simulations for first-order and second-order systems and disturbances, along with Arduino implementations.
+
+- **PID Control Projects**:
+  - `_contraller_fist_order l`
+  - `SIMULINK controller_ PI_`
+  - `p_controller_first_order`
+  - `rc_second_order_open_close_loop_P_Pl_PlD_arduino`
+  - `second_order_system_matlab_code`
+
+- **Advanced Project**: [Solar Panel PID Control](https://github.com/yassa404/Model-_Based_development/tree/main/PID%20controller%20projects/project1)
+
+Explore more in the [PID Controller folder](https://github.com/yassa404/Model-_Based_development/tree/main/PID_controler/laps).
+
 ## Folder Structure
 - `/MATLAB`: Contains fundamental MATLAB learning materials and the final Simple Pendulum Project.
 - `/Simulink`: Holds various small Simulink projects and the Mass-Spring-Damper system project.
+- `/Arduino Simulink Interface`: Contains Simulink projects interfacing with Arduino.
+- `/PID Controller`: Includes various PID control projects and simulations.
 - `/projects`: Contains additional individual projects.
 - `/docs`: Documentation related to the projects or MBD concepts.
 - `/scripts`: Scripts or tools used in the development process.
