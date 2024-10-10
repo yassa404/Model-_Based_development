@@ -16,66 +16,58 @@ This repository is dedicated to my studies and projects related to Model-Based D
 Model-Based Development (MBD) is a methodology that uses models as the core artifacts in the development process. It involves creating abstract representations of a system and using these models for analysis, design, and implementation. This section provides a brief introduction to MBD and its benefits.
 
 ## MATLAB
-**Folder Link**: [MATLAB Projects](https://github.com/yassa404/Model-_Based_development/tree/main/MATLAB)
+### LABs
+1. **LAB 1: MATLAB Concepts**  
+   Objective: This lab exercise covers basic MATLAB concepts, including loops, functions, and matrix manipulations.  
+   [Link to MATLAB Folder](https://github.com/yassa404/Model-_Based_development/tree/main/MATLAB)
 
-This section contains fundamental learning resources about MATLAB, including loops, functions, and matrices. It also includes the final project, which is the simulation of a simple pendulum.
-
-### Projects:
-- **Project: Simple Pendulum**  
-  [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/MATLAB/Project)  
-  Objective: Simulating the motion of a simple pendulum using MATLAB.
+2. **Project: Simple Pendulum**  
+   Objective: Simulate the motion of a simple pendulum using MATLAB.  
+   [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/MATLAB/Project)
 
 ## Simulink
-**Folder Link**: [Simulink Projects](https://github.com/yassa404/Model-_Based_development/tree/main/Simulink)
+### LABs
+1. **Basic Simulink Projects**  
+   Objective: Explore fundamental Simulink blocks and create simple simulations.  
+   [Link to Simulink Folder](https://github.com/yassa404/Model-_Based_development/tree/main/Simulink)
 
-This section includes various basic Simulink projects such as function calls, look-up tables, switch-case examples, and a mass-spring-damper system simulation.
-
-### Projects:
-- **Project: Mass-Spring-Damper System**  
-  [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/Simulink/Laps/mass_spring_dumper)  
-  Objective: Analyzing the dynamics of a mass-spring-damper system.
+### Key Projects:
+- **Mass-Spring-Damper System**  
+  Objective: Simulate and analyze the behavior of a mass-spring-damper system.  
+  [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/Simulink/Laps/mass_spring_dumper)
 
 ## Interface Simulink Arduino
-**Folder Link**: [Simulink-Arduino Interface Projects](https://github.com/yassa404/Model-_Based_development/tree/main/Arduino%20Simulink%20Interface)
+### LABs
+This section contains projects that interface Arduino with Simulink for motor control and other automation tasks.  
+[Link to Arduino Simulink Interface Folder](https://github.com/yassa404/Model-_Based_development/tree/main/Arduino%20Simulink%20Interface)
 
-This section contains projects that demonstrate interfacing Simulink with Arduino, primarily for controlling motors and lights. One of the highlighted projects is a signal light control system for vehicle direction indicators.
+### Key Projects:
+1. **DC Motor Control**  
+   Objective: Control a DC motor using Simulink and Arduino.  
+   [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/Arduino%20Simulink%20Interface/Laps)
 
-### Projects:
-- **Project: Direction DC Motor Control**  
-  Objective: Control the direction of a DC motor using Simulink and Arduino.  
-  Project Files:  
-  - `direction_dcmotor_3 control`  
-  - `control_on_left_right_off_byenableblook_4`  
-  - `control_on_left_right_off_byenableblook_by_press_5`
-
-- **Project: Signal Light Control System**  
-  Objective: Simulate a vehicle signal light system using Arduino and Simulink.  
-  Detailed behavior includes handling indicators for right, left, and hazard lights, with automatic switching.
+2. **Project: Signal Light Control System**  
+   [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/Arduino%20Simulink%20Interface/Task/Turn_Signals)  
+   Objective: Simulate a vehicle signal light system using Arduino and Simulink. Detailed behavior includes handling indicators for right, left, and hazard lights, with automatic switching.
 
 ## PID Controller
-**Folder Link**: [PID Controller Projects](https://github.com/yassa404/Model-_Based_development/tree/main/PID_controler/laps)
+### LABs
+1. **First-Order System Control**  
+   Objective: Model and analyze a first-order system using Simulink.  
+   [Link to PID Controller Folder](https://github.com/yassa404/Model-_Based_development/tree/main/PID_controler/laps)
 
-This section focuses on various PID control projects, including first- and second-order systems, and tuning of PID controllers. A significant project in this section involves the control of a solar panel using a PID controller.
-
-### Projects:
-- **Project: Solar Panel Control with PID**  
-  [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/PID%20controller%20projects/project1)  
-  Objective: Control the orientation of a solar panel using a PID controller to optimize solar energy capture.
-
-### Lab Examples:
-- **Lab: First-Order System Control**  
-  Objective: Understand and apply the concepts of first-order system control using Simulink.
-- **Lab: PID Controller Tuning**  
-  Objective: Tune a PID controller for a second-order system using S-shape methods.
+2. **Project: Solar Panel PID Control**  
+   Objective: Control the orientation of a solar panel using a PID controller.  
+   [Link to Project](https://github.com/yassa404/Model-_Based_development/tree/main/PID%20controller%20projects/project1)
 
 ## Folder Structure
-- `/MATLAB`: Contains basic MATLAB projects and examples.
-- `/Simulink`: Contains various Simulink projects, including mass-spring-damper analysis.
-- `/Arduino Simulink Interface`: Contains projects for controlling Arduino systems with Simulink.
-- `/PID Controller`: Contains labs and projects related to PID control systems.
-- `/docs`: Additional documentation related to the projects or MBD concepts.
-- `/scripts`: Any scripts or tools used in the development process.
-- `/examples`: Code examples or model files that illustrate specific concepts.
+- **/MATLAB**: Contains MATLAB projects and basic labs.
+- **/Simulink**: Contains Simulink projects and examples.
+- **/Arduino Simulink Interface**: Projects interfacing Simulink with Arduino hardware.
+- **/PID Controller**: Contains various PID control-related labs and projects.
+- **/docs**: Additional documentation related to the projects or MBD concepts.
+- **/scripts**: Scripts and tools used in the development process.
+- **/examples**: Code examples or model files that illustrate specific concepts.
 
 ## License
 MIT License
